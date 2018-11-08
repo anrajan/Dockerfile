@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+MAINTAINER Anoop Rajan
+CMD echo Hello World
